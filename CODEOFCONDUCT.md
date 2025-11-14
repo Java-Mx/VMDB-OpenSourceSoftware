@@ -39,7 +39,7 @@ This Code of Conduct applies to:
 Violations should be reported via email:
 
 **Contact:**  
-ashwin.vmdboss@securitymail.com (example placeholder)
+ashwinchhawaniya2@gmail.com
 
 All complaints will be reviewed and investigated fairly.  
 Maintainers are obligated to maintain confidentiality.
